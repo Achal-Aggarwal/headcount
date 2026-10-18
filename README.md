@@ -469,6 +469,24 @@ in both tools and that only the manifests differ.
   <img alt="Star history" src="https://api.star-history.com/svg?repos=cbrock84/headcount&type=Date" width="600">
 </picture>
 
+## Going further
+
+headcount stays MIT and free. Where a skill stops at advice and the work needs a system, these
+are products from the same builder, listed so you know they exist — nothing here requires them:
+
+| If the skill you used was | The work it points to | Built for it |
+|---|---|---|
+| `security:*`, `legal-risk:regulatory-compliance`, `legal-risk:enterprise-risk` | Running a SOC 2, ISO 27001, NIST CSF or HIPAA program with evidence an auditor accepts | [Keel](https://keelgrc.com) — GRC platform, free plan |
+| `demand-generation:ai-search-optimization`, `demand-generation:seo-strategy` | Checking what an AI answer engine can actually read on your site | [Cite Unseen](https://citeunseen.io) — free scan, paid audit |
+| `product:*`, `technology:implementation-planning` | Turning a spec into a React project you own | [vibld](https://vibld.com) — AI app builder, open-source core |
+
+## Supporting this work
+
+If a department saved you an afternoon, you can sponsor the work on
+[GitHub Sponsors](https://github.com/sponsors/cbrock84). Sponsorship pays for the time spent
+re-checking sources and keeping skills current; it buys no influence over what a skill says,
+and the repository stays MIT whether or not anyone sponsors it.
+
 ## Writing
 
 Notes from building and running this, and from the day job — technology, security, AI, and the
